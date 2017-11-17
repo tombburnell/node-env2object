@@ -1,0 +1,11 @@
+{
+  "name": "env2object",
+  "version": "0.0.0",
+  "description": "will read in environment variables and place them into an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Burnell",
+  "license": "BSD"
+}
