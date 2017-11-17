@@ -1,6 +1,6 @@
 {
   "name": "env2object",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "will read in environment variables and place them into an object",
   "main": "index.js",
   "scripts": {
